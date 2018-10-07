@@ -30,6 +30,7 @@ while userAction != "3":
             print("Votre demande n'a pas été comprise!")
 
     else:
+        #if the user chose to exit the program
         sys.exit(0)
 
 
