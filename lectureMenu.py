@@ -8,6 +8,7 @@ def readOrWrite():
     print("Souhaitez-vous ouvrir ou éditer un fichier?")
     print("1. Ouvrir")
     print("2. Editer")
+    print("3. Quitter")
     return input("\nChoix : ")
 
 def writeFileName():
